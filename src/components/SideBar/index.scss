@@ -1,5 +1,5 @@
 .nav-bar {
-    background: #00001a;
+    background: #363738;
     width: 80px;
     height: 100%;
     position: absolute;
@@ -34,7 +34,7 @@
         
         a {
             font-size: 22px;
-            color: #596648;
+            color: #ffffff;
             display: block;
             line-height: 51px;
             height: 51px;
@@ -81,9 +81,9 @@
                 content: 'About'
             }
         }
-                a.contact-link {
+                a.portfolio-link {
                     &::after {
-                        content: 'Contact'
+                        content: 'Portfolio'
                     }
                 }
                                 a.active {
